@@ -10,7 +10,7 @@ namespace TddCalculatorApp.Library
     {
         public int AddIntegers(int num1,int num2)
         {
-            return 0;
+            return num1+num2;
         }
     }
 }

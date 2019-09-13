@@ -18,7 +18,7 @@ namespace TddCalculatorApp.Test
 
             Assert.AreEqual(7, result, "Testing two integers 3 and 2");
         }
-
        
+
     }
 }
