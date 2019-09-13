@@ -1,0 +1,6 @@
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\bin\Debug\TddCalculatorApp.Library.dll
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\bin\Debug\TddCalculatorApp.Library.pdb
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\obj\Debug\TddCalculatorApp.Library.csprojAssemblyReference.cache
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\obj\Debug\TddCalculatorApp.Library.csproj.CoreCompileInputs.cache
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\obj\Debug\TddCalculatorApp.Library.dll
+C:\Gagan_Training\WebAPI\TddCalculatorApp\TddCalculatorApp.Library\obj\Debug\TddCalculatorApp.Library.pdb
